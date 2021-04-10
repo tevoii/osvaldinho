@@ -30,6 +30,7 @@ _*COMANDOS:*_
 21• *${prefix}anotaaplaca*
 22• *${prefix}sad*
 23• *${prefix}lookatme*
+25• *${prefix}vdlouca*
 ──────────────────
 『 SUGESTÃO DE MSC 』
            
